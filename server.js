@@ -8,6 +8,7 @@ var config = require('./config');
 var index = require('./routes/index');
 var auth = require('./routes/auth');
 let Mongoose = require('./db');
+const jwtMiddleware = require('./middlewares/jwt');
 
 var app = express();
 // view engine setup
