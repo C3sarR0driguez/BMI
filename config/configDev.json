@@ -1,0 +1,5 @@
+{
+    "secret": "$bmi%app",
+    "dbURI": "mongodb://admin:admin7%24@ds123151.mlab.com:23151/bmi" ,
+    "host": "http://localhost:3000"
+} 
